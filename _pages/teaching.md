@@ -22,6 +22,7 @@ author_profile: true
 
 - **Introduction to Sociology** (ENSAE Paris, Bachelor's level)
   Lecture teacher in Fall 2024 and teacher for tutorial sessions in Fall 2025.
-  Foundations of sociological reasoning and research methods, as well as applied topics. Tutorial sessions included discussions of research
-  articles.
+  Together with a colleague, I designed and taught this introductory course, which provided students with a comprehensive foundation in key
+  sociological concepts, theories, and methods.
+
 
