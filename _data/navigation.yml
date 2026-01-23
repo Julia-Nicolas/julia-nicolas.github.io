@@ -9,9 +9,9 @@
 
 main:
   - title: "Home"
-    url: /
+    url: /about/
   - title: "Research"
-    url: /research/
+    url: /publications/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
