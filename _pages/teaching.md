@@ -6,9 +6,10 @@ author_profile: true
 
 ## Teaching experience
 
-- **Surveys** (ENSAE Paris, Master’s level, Fall 2023, 2024 and 2025)  
-  Teacher for tutorial sessions, introducing principles of inference in finite population sampling, classical sampling designs, and weighting and calibration methods to correct for non-response. The sessions included applied work in R using real survey data.  
-  [Course description](https://www.ensae.fr/courses/1008-sondages). Prof. Guillaume Chauvet
+- **[Surveys](https://www.ensae.fr/courses/1008-sondages)** (ENSAE Paris, Master’s level, Fall 2023, 2024 and 2025)  
+  Teacher for tutorial sessions, introducing principles of inference in finite population sampling, classical sampling designs, and weighting
+  and calibration methods to correct for non-response. The sessions included applied work in R using real survey data.
+  Prof. Guillaume Chauvet
 
 - **Descriptive statistics with R** (ENSAE Paris, Bachelor’s level, Fall 2025)  
   Teacher for tutorial sessions, introducing the basics of the R programming language for descriptive statistics and data
