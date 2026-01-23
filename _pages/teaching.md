@@ -15,5 +15,8 @@ author_profile: true
   visualization. [Course description](https://www.ensae.fr/courses/116). Prof. Nicolas Baradel
 
 - **Econometrics** (ENSAE Paris, Master's level, Spring 2024 and 2025)
-  Teacher for tutorial sessions, covering advanced econometric methods, including Difference-in-Differences, linear panel data models, and regression discontinuity designs. The course also introduced nonlinear models for limited dependent variables, such as logit and probit models, as well as censored and selection models (Tobit, sample selection, and truncation models). [Course description](https://www.ensae.fr/courses/6104)
+  Teacher for tutorial sessions, covering advanced econometric methods, including Difference-in-Differences, linear panel data models, and
+  regression discontinuity designs. The course also introduced nonlinear models for limited dependent variables, such as logit and probit
+  models, as well as censored and selection models (Tobit, sample selection, and truncation models). [Course description]
+  (https://www.ensae.fr/courses/6104)
 
