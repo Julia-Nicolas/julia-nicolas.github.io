@@ -14,7 +14,6 @@ My research focuses on inequalities in access to healthcare in France, with a pa
 *with Patrick Präg and Sorana Toma*  
 Submitted. Available at [SocArXiv](https://osf.io/preprints/socarxiv/fg5ny_v1). Replication materials available on [OSF](https://osf.io/szqgx/overview).  
 
-This paper examines the causal effect of language barriers on healthcare uptake among immigrants in France.
 
 *Presented at:* CREST Socio Day; INED (International Migration and Minorities Research Unit); IMISCOE Annual Conference 2024 (Lisbon); ECSR Conference 2024 (Barcelona).
 
@@ -23,8 +22,6 @@ This paper examines the causal effect of language barriers on healthcare uptake 
 **Examining Immigrant Healthcare Access Inequalities in France: An Intersectional Approach**  
 
 Working paper. Draft coming soon.
-
-This paper adopts an intersectional perspective to analyze inequalities in healthcare access among immigrant populations in France.
 
 *Presented at:* CREST Socio Day; ECSR Conference 2025 (Cologne).
 
