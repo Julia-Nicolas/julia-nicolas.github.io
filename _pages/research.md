@@ -12,7 +12,7 @@ My research focuses on inequalities in access to healthcare in France, with a pa
 
 **Language Barriers and Healthcare Uptake: Causal Evidence from Immigrants in France**  
 *with Patrick Präg and Sorana Toma*  
-Submitted. Available at SocArXiv. Replication materials available on OSF.  
+Submitted. Available at [SocArXiv](https://osf.io/preprints/socarxiv/fg5ny_v1). Replication materials available on [OSF](https://osf.io/szqgx/overview).  
 
 This paper examines the causal effect of language barriers on healthcare uptake among immigrants in France.
 
