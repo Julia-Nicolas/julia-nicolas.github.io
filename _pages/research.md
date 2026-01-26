@@ -5,14 +5,29 @@ author_profile: true
 ---
 
 ## Research interests
-- Topic 1
-- Topic 2
-- Topic 3
 
-## Working projects
-**Project title 1.** Short description. *(Status: ongoing)*
+My research focuses on inequalities in access to healthcare in France, with a particular emphasis on immigrant populations. I study how migratory background intersects with social stratification and institutional contexts to shape unequal healthcare access. My work primarily relies on quantitative methods and survey data.
 
-**Project title 2.** Short description. *(Status: draft / submitted)*
+## Working papers
+
+**Language Barriers and Healthcare Uptake: Causal Evidence from Immigrants in France**  
+*with Patrick Präg and Sorana Toma*  
+Submitted. Available at SocArXiv. Replication materials available on OSF.  
+
+This paper examines the causal effect of language barriers on healthcare uptake among immigrants in France.
+
+*Presented at:* CREST Socio Day; INED (International Migration and Minorities Research Unit); IMISCOE Annual Conference 2024 (Lisbon); ECSR Conference 2024 (Barcelona).
+
+---
+
+**Examining Immigrant Healthcare Access Inequalities in France: An Intersectional Approach**  
+
+Working paper. Draft coming soon.
+
+This paper adopts an intersectional perspective to analyze inequalities in healthcare access among immigrant populations in France.
+
+*Presented at:* CREST Socio Day; ECSR Conference 2025 (Cologne).
 
 ## Publications
-See [Publications](/publications/).
+
+See the [Publications](/publications/) page.
