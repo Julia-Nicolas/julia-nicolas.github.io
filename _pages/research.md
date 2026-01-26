@@ -28,6 +28,3 @@ This paper adopts an intersectional perspective to analyze inequalities in healt
 
 *Presented at:* CREST Socio Day; ECSR Conference 2025 (Cologne).
 
-## Publications
-
-See the [Publications](/publications/) page.
