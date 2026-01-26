@@ -7,7 +7,7 @@ author_profile: true
 ## Contact 
 
 **Address**  
-Office: [4011-4013]  
+Office: 4011-4013  
 CREST – ENSAE  
 Institut Polytechnique de Paris  
 5 Avenue Le Chatelier 
@@ -16,5 +16,5 @@ France
 
  
 **E-mail**  
-[julia.nicolas@ensae.fr]
+[julia.nicolas@ensae.fr](mailto:julia.nicolas@ensae.fr)
 
