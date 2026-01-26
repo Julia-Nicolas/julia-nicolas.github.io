@@ -9,16 +9,15 @@ author_profile: true
 **Julia Nicolas**  
 Ph.D. candidate in Sociology  
 
+**Address**
+Office: [4011-4013] 
 CREST – ENSAE  
 Institut Polytechnique de Paris  
+5 Avenue Le Chatelier 
+91120, Palaiseau
+France
 
-Office: [numéro de bureau]  
-Email: [ton.email@institution.fr]
+ 
+**E-mail**
+[julia.nicolas@ensae.fr]
 
----
-
-### Visiting address
-
-Nuffield College  
-University of Oxford  
-Oxford, United Kingdom
