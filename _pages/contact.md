@@ -4,13 +4,10 @@ permalink: /contact/
 author_profile: true
 ---
 
-## Contact
-
-**Julia Nicolas**  
-Ph.D. candidate in Sociology  
+## Contact 
 
 **Address**
-Office: [4011-4013] 
+Office: [4011-4013]  
 CREST – ENSAE  
 Institut Polytechnique de Paris  
 5 Avenue Le Chatelier 
