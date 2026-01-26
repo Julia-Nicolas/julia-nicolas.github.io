@@ -6,7 +6,7 @@ author_profile: true
 
 ## Contact 
 
-**Address**
+**Address**  
 Office: [4011-4013]  
 CREST – ENSAE  
 Institut Polytechnique de Paris  
@@ -15,6 +15,6 @@ Institut Polytechnique de Paris
 France
 
  
-**E-mail**
+**E-mail**  
 [julia.nicolas@ensae.fr]
 
