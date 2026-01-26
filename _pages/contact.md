@@ -10,8 +10,8 @@ author_profile: true
 Office: 4011-4013  
 CREST – ENSAE  
 Institut Polytechnique de Paris  
-5 Avenue Le Chatelier 
-91120, Palaiseau
+5 Avenue Le Chatelier   
+91120, Palaiseau  
 France
 
  
