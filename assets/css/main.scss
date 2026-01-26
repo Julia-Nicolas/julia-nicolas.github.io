@@ -52,5 +52,12 @@
 /* Custom typography */
 
 body {
-  font-family: "Lora", serif;
+  font-family: "Merriweather", serif;
 }
+
+h1, h2, h3, h4, h5, h6,
+.masthead__menu-item,
+.site-title {
+  font-family: "Merriweather", serif;
+}
+
