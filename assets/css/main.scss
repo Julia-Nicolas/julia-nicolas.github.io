@@ -79,3 +79,13 @@ a:hover {
   color: #0f2f5c;
 }
 
+/* Author sidebar typography */
+
+.author__content,
+.author__content p,
+.author__bio,
+.author__meta,
+.author__urls,
+.author__urls a {
+  font-family: "Source Serif 4", serif;
+}
