@@ -8,9 +8,10 @@ My teaching experience covers courses in sociology and quantitative methods.
 
 ## Lecturer 
 
-- **Introduction to Sociology** (ENSAE Paris, Bachelor's level, Fall 2024)
+- **Introduction to Sociology** (ENSAE Paris, Bachelor's level, Fall 2024)<br>
   Designed and taught in collaboration with a colleague, this introductory course introduced students to the core concepts, theoretical
   perspectives, and methodological tools of sociology, as well as to more applied sociological topics.
+
 
 
 ## Teaching assistant 
