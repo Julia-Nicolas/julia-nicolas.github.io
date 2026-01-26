@@ -6,7 +6,8 @@ author_profile: true
 
 ## Research interests
 
-My research focuses on inequalities in access to healthcare in France, with a particular emphasis on immigrant populations. I study how migratory background intersects with social stratification and institutional contexts to shape unequal healthcare access. My work primarily relies on quantitative methods and survey data.
+My research focuses on inequalities in access to healthcare in France, with a particular emphasis on immigrant populations. In a first paper, I examined the impact of language barriers on access to different healthcare providers in France. In ongoing work, I adopt an intersectional perspective to study inequalities in access to preventive healthcare, relying primarily on quantitative methods.
+
 
 ## Working papers
 
