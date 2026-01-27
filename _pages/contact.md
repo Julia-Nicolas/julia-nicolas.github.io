@@ -4,6 +4,8 @@ permalink: /contact/
 author_profile: true
 ---
 
+**E-mail**  
+[julia.nicolas@ensae.fr](mailto:julia.nicolas@ensae.fr)
 
 **Address**  
 Office: 4011-4013  
@@ -14,8 +16,6 @@ Institut Polytechnique de Paris
 France
 
  
-**E-mail**  
-[julia.nicolas@ensae.fr](mailto:julia.nicolas@ensae.fr)
 
 <div style="margin-top: 1.5rem; border: 1px solid #e0e0e0; border-radius: 12px; overflow: hidden;">
   <iframe
