@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-My teaching experience covers courses in sociology and quantitative methods.
+Over the first two years of my PhD, I developed a strong interest in teaching. My teaching experience covers courses in sociology and quantitative methods.
 
 ## Lecturer 
 
