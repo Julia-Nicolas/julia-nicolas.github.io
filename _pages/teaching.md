@@ -35,4 +35,7 @@ Over the first two years of my PhD, I developed a strong interest in teaching. M
   Tutorial sessions focused on reading and discussing research articles, as well as introducing students to document analysis in social
   science.
 
+- **[Introduction to Statistics](https://www.ensae.fr/en/courses/475)** (ENSAE Paris, Bachelor's level, Spring 2024)
+  Tutorials for a course on statistical modeling, estimation, and hypothesis testing, with applications to the multiple linear model in econometrics (examples and simulations in economics, finance, and biostatistics
+
  
