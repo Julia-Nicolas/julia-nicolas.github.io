@@ -27,5 +27,5 @@ Submitted. Available at [SocArXiv](https://osf.io/preprints/socarxiv/fg5ny_v1). 
 
 Working paper. Draft coming soon.
 
-*Presented at:* CREST Socio Day; ECSR Conference 2025 (Cologne).
+*Presented at:* CREST Socio Day; ECSR Conference 2025 (Cologne) ; EPC Conference 2026 (Bologna). 
 
