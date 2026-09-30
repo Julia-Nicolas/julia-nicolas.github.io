@@ -10,8 +10,6 @@ redirect_from:
 
 ---
 
-Please select the language of the CV you would like to view.
-
 ### English
 
 [View my CV in English](/files/CVanglais.pdf)
