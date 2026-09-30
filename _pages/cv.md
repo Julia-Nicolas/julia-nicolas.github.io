@@ -14,12 +14,8 @@ Please select the language of the CV you would like to view.
 
 ### English
 
-<a href="{{ '/files/CVanglais.pdf' | relative_url }}" target="_blank">
-  View my CV in English
-</a>
+[View my CV in English](/files/CVanglais.pdf)
 
 ### Français
 
-<a href="{{ '/files/CVfrancais.pdf' | relative_url }}" target="_blank">
-  Consulter mon CV en français
-</a>
+[Consulter mon CV en français](/files/CVfrancais.pdf)
