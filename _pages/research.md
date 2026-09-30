@@ -23,7 +23,7 @@ Submitted. Available at [SocArXiv](https://osf.io/preprints/socarxiv/fg5ny_v1). 
 
 ---
 
-**Examining Immigrant Healthcare Access Inequalities in France: An Intersectional Approach**  
+**Cervical cancer screening among immigrant women and their descendants in France: an intersectional approach**  
 
 Working paper. Draft coming soon.
 
@@ -31,7 +31,7 @@ Working paper. Draft coming soon.
 
 ---
 
-**Contextual Determinants of Healthcare Uptake Inequalities: The Role of the Local Healthcare Environment**  
+**Contextual determinants of healthcare uptake inequalities: the role of the local healthcare environment**  
 
 Working paper. Draft coming soon.
 
