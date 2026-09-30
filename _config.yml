@@ -23,7 +23,7 @@ repository               : "Julia-Nicolas/julia-nicolas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "julia.jpg"
   name             : "Julia Nicolas"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D Candidate in Sociology at CREST - Institut Polytechnique de Paris"
