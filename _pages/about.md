@@ -13,4 +13,4 @@ My [research](/research/) focuses on healthcare access inequalities in France, w
 
 Before starting my Ph.D., I obtained an engineering degree from [ENSAE Paris](https://www.ensae.fr/), with a specialization in Data Science for Social Science. I also completed a Research Master’s degree in Quantitative Sociology and Demography at [Institut Polytechnique de Paris](https://www.ip-paris.fr/).
 
-Since January 2026, I have been a visiting student at [Nuffield College, University of Oxford](https://www.nuffield.ox.ac.uk/).
+From January 2026 to March 2026, I was a visiting student at [Nuffield College, University of Oxford](https://www.nuffield.ox.ac.uk/).
