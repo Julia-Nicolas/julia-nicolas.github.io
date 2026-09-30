@@ -17,7 +17,7 @@ Over the first two years of my PhD, I developed a strong interest in teaching. M
 ## Teaching assistant 
 
 
-- **[Surveys](https://www.ensae.fr/courses/1008-sondages)** (ENSAE Paris, Master’s level, Fall 2023, 2024 and 2025)  
+- **[Surveys](https://www.ensae.fr/courses/1008-sondages)** (ENSAE Paris, Master’s level, Fall 2023, 2024, 2025 and 2026)  
   Tutorial sessions introducing principles of inference in finite population sampling, classical sampling designs, and weighting
   and calibration methods to correct for non-response.
   Prof. Guillaume Chauvet
@@ -29,13 +29,13 @@ Over the first two years of my PhD, I developed a strong interest in teaching. M
 - **[Econometrics](https://www.ensae.fr/courses/6104)** (ENSAE Paris, Master's level, Spring 2024 and 2025)
   Tutorial sessions covering advanced econometric methods, including Difference-in-Differences, linear panel data models, and
   regression discontinuity designs. The course also introduced nonlinear models for limited dependent variables, such as logit and probit
-  models, as well as censored and selection models (Tobit, sample selection, and truncation models).
+  models, as well as censored and selection models (Tobit, sample selection, and truncation models). Prof. Laurent Davezies
 
-- **[Introduction to Sociology](https://www.ensae.fr/courses/690)** (ENSAE Paris, Bachelor's level, Fall 2025)
+- **[Introduction to Sociology](https://www.ensae.fr/courses/690)** (ENSAE Paris, Bachelor's level, Fall 2025 and 2026)
   Tutorial sessions focused on reading and discussing research articles, as well as introducing students to document analysis in social
-  science.
+  science. Prof. Philippe Coulangeon
 
 - **[Introduction to Statistics](https://www.ensae.fr/en/courses/475)** (ENSAE Paris, Bachelor's level, Spring 2024)
-  Tutorials for a course on statistical modeling, estimation, and hypothesis testing, with applications to the multiple linear model in econometrics (examples and simulations in economics, finance, and biostatistics
+  Tutorials for a course on statistical modeling, estimation, and hypothesis testing, with applications to the multiple linear model in econometrics (examples and simulations in economics, finance, and biostatistics). Prof. Matthieu Lerasle
 
  
