@@ -27,5 +27,14 @@ Submitted. Available at [SocArXiv](https://osf.io/preprints/socarxiv/fg5ny_v1). 
 
 Working paper. Draft coming soon.
 
-*Presented at:* CREST Socio Day; ECSR Conference 2025 (Cologne) ; EPC Conference 2026 (Bologna). 
+*Presented at:* CREST Socio Day; ECSR Conference 2025 (Cologne) ; BJS Conference 2026 (London) ; EPC Conference 2026 (Bologna). 
+
+---
+
+**Contextual Determinants of Healthcare Uptake Inequalities: The Role of the Local Healthcare Environment**  
+
+Working paper. Draft coming soon.
+
+
+
 
